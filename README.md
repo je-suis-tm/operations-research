@@ -1,1 +1,1 @@
-# operations-research
+# Operations Research
