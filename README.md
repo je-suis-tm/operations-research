@@ -15,5 +15,15 @@ Convex optimization has been active in my GitHub long before the existence of th
 
 ### 1. Sudoku
 
+Sudoku is a logic-based, combinatorial number-placement puzzle. Despite its Japanese name, the game was actually invented by an American and later gained popularity in Japan. There are many ways (e.g. <a href=https://github.com/je-suis-tm/graph-theory/blob/master/sudoku.ipynb>vertex coloring</a>) for computer algorithms to solve Sudoku. Here we use Binary Integer Linear Programming to solve the puzzle via convex optimization. In this particular optimization problem, we have no objective function to maximize or minimize. We merely need to satisfy the constraints below.
+
+* Only one element in each column
+* Only one element in each row
+* Only one element in each sub matrix
+* Each cell in the matrix should be filled
+* Given elements in the cells are set on
+
 ![alt text](https://github.com/je-suis-tm/operations-research/blob/main/preview/sudoku.png)
+
+*Click <a href=https://github.com/je-suis-tm/operations-research/blob/main/sudoku.ipynb>here</a> to be redirected to the script.*
 
