@@ -27,3 +27,9 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. Despite its Japa
 
 *Click <a href=https://github.com/je-suis-tm/operations-research/blob/main/sudoku.ipynb>here</a> to be redirected to the script.*
 
+### 2. Tic Tac Toe
+
+![alt text](https://github.com/je-suis-tm/operations-research/blob/main/preview/tictactoe.png)
+
+*Click <a href=https://github.com/je-suis-tm/operations-research/blob/main/tictactoe.ipynb>here</a> to be redirected to the script.*
+
