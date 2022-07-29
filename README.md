@@ -27,7 +27,9 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. Despite its Japa
 
 *Click <a href=https://github.com/je-suis-tm/operations-research/blob/main/sudoku.ipynb>here</a> to be redirected to the script.*
 
-### 2. Tic Tac Toe
+### 2. Tic-Tac-Toe
+
+Tic-Tac-Toe is a very simple game for children. In a conventional setting, two players play on a three by three grid. Whoever manages to have three marks on a column, row or diagonal wins the game. The objective here is to create a gaming AI which is sophisticated enough to beat the human player. Minimax algorithm is perfect for the job. Minimax, inspired by DFS in graph theory, is a recursive traversal algorithm on game tree to minimize the maximum game loss. The brute force computation of every possible game scenario is computationally expensive. Other techniques including alpha-beta pruning, depth limited search, iterative deepening search, memoization, Monte Carlo evaluation function can improve the time complexity.
 
 ![alt text](https://github.com/je-suis-tm/operations-research/blob/main/preview/tictactoe.png)
 
