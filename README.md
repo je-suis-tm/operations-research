@@ -6,12 +6,14 @@ Convex optimization has been active in my GitHub long before the existence of th
 
 ## Applications
 
-1. Convex Optimization
-2. Decision Analysis
-3. Game Theory
-4. Inventory Theory
-5. Metaheuristics
-6. Queuing Theory
+1. Sudoku
+2. Tic-Tac-Toe
+
+## Algorithms
+
+1. Binary Integer Linear Programming
+2. Minimax/Negamax
+3. Depth Limited Search
 
 ### 1. Sudoku
 
